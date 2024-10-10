@@ -1,10 +1,10 @@
 body {
     background-color: lightpink;
-}
+    font-family: Bay Jamjuree;
 
 footer {
     background-color: lightyellow;
-    color: orange;
+    color: #ff3300;
     position: fixed;
     bottom: 0;
     width: 100%;
