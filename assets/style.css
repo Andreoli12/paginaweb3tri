@@ -2,7 +2,22 @@ body {
     background-color: lightpink;
     font-family: Bai Jamjuree;
 
-footer {
+
+#container {
+     display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+    footer {
     background-color: lightyellow;
     color: #ff3300;
     position: fixed;
