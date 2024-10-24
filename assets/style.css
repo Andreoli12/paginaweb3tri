@@ -41,12 +41,16 @@ body {
 }
 
 
+.cartao__conteudo__pergunta {
+    color: var(--text-color);
+}
 
 
 
 
-
-
+.cartao__conteudo__resposta{
+    color: var(--card-back-color);
+}
 
     footer {
     background-color: rgb(0, 0, 0);
